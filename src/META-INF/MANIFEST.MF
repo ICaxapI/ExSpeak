@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Class-Path: .\jarlib\jmf.jar .\jarlib\customizer.jar .\jarlib\opencv-3
+ 00.jar .\jarlib\mediaplayer.jar .\jarlib\multiplayer.jar .\jarlib\cli
+ ng-core-2.1.1.jar .\jarlib\cling-core-2.1.1-sources.jar .\jarlib\clin
+ g-support-2.1.1.jar .\jarlib\seamless-http-1.1.1.jar .\jarlib\seamles
+ s-util-1.1.1.jar .\lib\opencv_java300.dll .\lib\opencv_java300x86.dll
+Main-Class: Main
+
